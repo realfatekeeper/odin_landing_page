@@ -88,10 +88,11 @@ body {
 }
 
 .info img {
+    display: flex;
     border: 5px solid;
     border-color: #3882F6;
     border-radius: 20px;
-    flex: 0 0 auto;
+    flex: 0 0 200px;
 }
 
 
